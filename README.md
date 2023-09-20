@@ -1,6 +1,6 @@
 ![MasterHead](https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/07/Qubits_2880x1220_Lede_HPA.gif)
 
-<h1 align="center">Hi 👋, I'm Abid!</h1>
+<h1 align="center">Hi there 👋, I'm Abid! 🇧🇩 </h1>
 <h3 align="center">A quantum philosopher who just discovered the world of coding!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
