@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeem2026&label=Profile%20views&color=0e75b6&style=flat" alt="ajeem2026" /> </p>
 
-- 🔭 I’m currently working on [the W&L Mock Convention App](https://github.com/jjham1/MockConventionApp/tree/master/MockConApp)
+- 🔭 I’m currently working on [the W&L Mock Convention App](https://www.mockconvention.com/)
 
 - 🌱 I’m currently learning **React-Native**
 
