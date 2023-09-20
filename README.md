@@ -1,9 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/07/Qubits_2880x1220_Lede_HPA.gif)
 
 <h1 align="center">Hi 👋, I'm Abid!</h1>
 <h3 align="center">A quantum philosopher who just discovered the world of coding!</h3>
 
-<img align=”right” alt=”Coding” width=”400” src=”https://y.yarn.co/68588041-abea-4eb8-a650-8b80430ce541_text.gif”>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeem2026&label=Profile%20views&color=0e75b6&style=flat" alt="ajeem2026" /> </p>
 
