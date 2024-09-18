@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [the W&L Mock Convention App](https://www.mockconvention.com/)
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Quantum Computing!**
+- 💬 Ask me about **Special Relativity!**
 
 - 📫 How to reach me **ajeem@mail.wlu.edu**
 
