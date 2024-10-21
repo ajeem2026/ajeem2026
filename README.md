@@ -1,13 +1,13 @@
 ![MasterHead](https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/07/Qubits_2880x1220_Lede_HPA.gif)
 
 <h1 align="center">Hi there 👋, I'm Abid! 🇧🇩 </h1>
-<h3 align="center"> Aspiring Quantum Software Developer. I want to make QC Algorithms accessible to everyone!</h3>
+<h3 align="center"> Aspiring Quantum Software Developer— I want to make QC Algorithms accessible to everyone!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeem2026&label=Profile%20views&color=0e75b6&style=flat" alt="ajeem2026" /> </p>
 
-- 🔭 I’m currently working on [the W&L Mock Convention App](https://www.mockconvention.com/)
+- 🔭 I’m currently working on building a Linux (systemd) kernel from scratch! ([https://www.mockconvention.com/](https://github.com/ajeem2026/LFS_cs402))
 
 - 🌱 I’m currently learning **Java**
 
