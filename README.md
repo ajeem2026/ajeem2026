@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on building a Linux (systemd) kernel from scratch! ([https://github.com/ajeem2026/LFS_cs402])
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **PyGame**
 
-- 💬 Ask me about **Special Relativity!**
+- 💬 Ask me about **Gravitational Waves!**
 
 - 📫 How to reach me **ajeem@mail.wlu.edu**
 
