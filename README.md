@@ -15,7 +15,7 @@
 - 🏆 **CTF Experience:** Hackathons & Cybersecurity Competitions  
 - 💬 **Ask Me About:** Gravitational Waves & Cybersecurity Defense  
 - 📫 **How to Reach Me:** [ajeem@mail.wlu.edu](mailto:ajeem@mail.wlu.edu)  
-- ⚡ **Fun Fact:** I once mitigated 50+ device vulnerabilities while drinking coffee ☕  
+- ⚡ **Fun Fact:** I speak 5 languages ☕  
 
 ---
 
