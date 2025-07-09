@@ -17,7 +17,13 @@
   - Intersections of physics & computing—like how gravitational waves can be filtered via machine learning  
 
 - 🌱 **Currently Learning**:  
-  - Cloud Technology fundamentals 
+  - Cloud Technology fundamentals
+ 
+## 🏆 Certifications
+
+![AWS Certified Cloud Practitioner Badge](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+
+- **AWS Certified Cloud Practitioner (CCP)**
 
 - 📫 **Reach Me**: [ajeem@mail.wlu.edu](mailto:ajeem@mail.wlu.edu)  
 
