@@ -42,19 +42,24 @@
 
 ## ⚙️ Skills & Tools
 
-### Quantum & Computational Physics
-- **Quantum Tools**: Qiskit, D-Wave  
-- **Research Methods**: FEM modeling, neural networks for signal processing  
+### 🌀 Gravitational Waves & Computational Physics
+- **Quantum / Physics Tooling:** Qiskit, D-Wave, Mathematica  
+- **Computational Methods:** FEM modeling (COMSOL), numerical simulation, empirical signal modeling  
+- **Data & ML Workflows:** PyTorch, scikit-learn, scientific computing, HPC environments  
 
-### Cybersecurity & Networking
-- **Security Tools**: Nmap, Snort, Burp Suite, Wireshark, Fortinet Client VPN  
-- **System Hardening**: iptables/UFW, SSH security, privilege management  
-- **Frameworks**: MITRE ATT&CK, NIST, OWASP Top 10  
+### 🧠 AI, Transparency & Interpretability
+- **Mechanistic Interpretability:** attribution methods, concept activation, counterfactual probing  
+- **XAI & HCI:** social transparency, explanation design, user-centered AI workflows  
+- **RAG Systems:** AWS Bedrock, OpenSearch, Claude models, document retrieval & embedding pipelines  
 
-### Programming & Development
-- **Languages**: Python, Java, C, JavaScript  
-- **Frameworks**: React, React Native, Node.js  
-- **Automation**: Bash scripting, secure config management, Git/GitHub  
+### 🔐 Cybersecurity & Systems
+- **Security Tools:** Nmap, Snort, Burp Suite, Wireshark, Fortinet Client VPN  
+- **Frameworks:** MITRE ATT&CK, NIST CSF, OWASP Top 10  
+
+### 💻 Programming & Development
+- **Languages:** Python, Java, C, JavaScript, Bash  
+- **Frameworks / Libraries:** React, React Native, Node.js, Express  
+- **Tooling:** Git/GitHub, automation scripts, container workflows, API integrations  
 
 ---
 
