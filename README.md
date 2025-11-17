@@ -1,23 +1,24 @@
-# Researcher in Gravitational Waves
+# Researcher in Gravitational Waves & Transparent AI  
 ![MasterHead](https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/07/Qubits_2880x1220_Lede_HPA.gif)
 
 <h1 align="center">Hi there 👋, I'm Abid! 🇧🇩</h1>
-<h3 align="center">Double Major in Physics & Computer Science </h3>
+<h3 align="center">Physics & Computer Science | Gravitational Waves | AI Transparency</h3>
 
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
 
-- 🔭 **Research Highlights**:  
-  - **Finite Element Modeling** (COMSOL) for Ground Heat Exchangers  
-  - **Hyperempirical Neural Network** for Gravitational Wave Detection   
-  - **Ising Model on D-Wave** for distribution network optimization  
+- 🔭 **Current Research**  
+  - **Gravitational Wave Source Localization** — empirical modeling, detector-frame transformations, and hyper-empirical weighting functions (Northstar).  
+  - **Transparent AI for Clinical Documentation** — extending Ehsan et al.’s *Social Transparency* framework with RAG systems, mechanistic interpretability, and genre theory.  
+  - **Mechanistic Interpretability & XAI** — analyzing how models reason and designing systems that reveal their internal decision pathways.
 
+- 🧠 **Past Highlights**  
+  - **Finite-Element Modeling (COMSOL)** for Ground Heat Exchangers (GHX) and thermal field simulations.  
+  - **Ising Model on D-Wave** for optimization in energy distribution networks.
 
-- 💬 **Ask Me About**:  
-  - Quantum Gravity, Quantum Computing (Qiskit, D-Wave), and HPC  
-  - Intersections of physics & computing—like how gravitational waves can be filtered via machine learning  
-
-- 🌱 **Currently Learning**:  
-  - Cloud Technology fundamentals
+- 💬 **Ask Me About**  
+  - Gravitational-wave astrophysics, source localization algorithms, and empirical detector modeling.  
+  - Quantum Computing (Qiskit, D-Wave), HPC workflows, and scientific computing.  
+  - AI Transparency — RAG systems, mechanistic interpretability, and HCI-forward explanation design.
  
 ## 🏆 Certifications
 
