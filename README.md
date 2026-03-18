@@ -1,4 +1,4 @@
-# Researcher in Gravitational Waves & Transparent AI  
+# Research Software Engineer 
 ![MasterHead](https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/07/Qubits_2880x1220_Lede_HPA.gif)
 
 <h1 align="center">Hi there 👋, I'm Abid! 🇧🇩</h1>
