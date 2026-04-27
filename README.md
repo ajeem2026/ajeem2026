@@ -1,111 +1,143 @@
-# Research Software Engineer
 ![MasterHead](https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/07/Qubits_2880x1220_Lede_HPA.gif)
 
-<h1 align="center">Hi there 👋, I'm Abid! 🇧🇩</h1>
-<h3 align="center">Physics Major (CS Minor) · Washington & Lee University · GPA: 3.9/4.0</h3>
+<h1 align="center">Hi, I'm Abid 👋</h1>
+<h3 align="center">ML Inference · Data Engineering · AI Systems</h3>
+<p align="center">
+  Physics & CS @ Washington & Lee University · GPA 3.9 · AWS Certified · IEEE Published
+</p>
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
-
-## 🏅 Honors & Recognition
-- **Sigma Pi Sigma** — National Physics Honors Society
-- **Omicron Delta Kappa** — National Leadership Honors Society
-- **IEEE Published Author**
-- **APS Global Physics Summit 2026** — Presenter
-- **W&L International Scholar** — 100% Merit Scholarship
-- **Honors Thesis** in Computational Physics
-
----
-
-## 💬 Ask Me About
-- Gravitational-wave astrophysics, source localization algorithms, and performance optimization of physics pipelines
-- RAG systems, supervised ML, and AI transparency — from AWS Bedrock to LLaMA-based clinical reasoning
-- HPC workflows, vectorization, profiling, and making research reproducible for non-technical users
-- Cloud infrastructure on AWS (EC2, S3, Bedrock, OpenSearch, CloudFront, WAF)
+<p align="center">
+  <a href="https://linkedin.com/in/profjeem"><img src="https://img.shields.io/badge/LinkedIn-profjeem-0A66C2?style=flat&logo=linkedin" /></a>
+  <a href="https://abidjeem.com"><img src="https://img.shields.io/badge/Portfolio-abidjeem.com-000000?style=flat&logo=vercel" /></a>
+  <a href="mailto:ajeem@mail.wlu.edu"><img src="https://img.shields.io/badge/Email-ajeem@mail.wlu.edu-EA4335?style=flat&logo=gmail" /></a>
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat&logo=amazonaws" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 What I Build
 
-### 🌌 [Northstar — Gravitational-Wave Localization](https://github.com/tjamcclain2/Northstar-Python-)
-`Python` `NumPy` `Numba` `AWS Bedrock` `Random Forest` `ML`
-- Achieved a **46.7× speedup** (43s → 0.92s per 100 events) by profiling and restructuring an inherited O(n³) algorithm via vectorization and antenna-pattern caching
-- Built a vector-based knowledge base on AWS Bedrock so a non-technical physics professor can query LIGO gravitational-wave data on demand
-- Engineered a supervised ML module (Random Forest) trained on 120,000+ simulated events; generated synthetic datasets for future students with no CS background
-- Designed reproducible profiling toolkit (flamegraphs, SnakeViz) for seamless handoff to non-technical successors
-- Presented at the **APS Global Physics Summit 2026**
+I specialize in making ML systems **fast, scalable, and production-ready** — from profiling and optimizing inference pipelines to building data-intensive workflows on cloud infrastructure. My work lives at the intersection of systems-level performance engineering and applied AI.
+
+- **ML Inference & Optimization** — JIT compilation (Numba), vectorization, flamegraph profiling, pipeline benchmarking on AWS EC2/S3
+- **Data Engineering** — large-scale simulation pipelines, labeled dataset construction (120k+ events), S3-backed streaming workflows
+- **AI Systems & RAG** — LLaMA-3 inference, vector search (FAISS/ChromaDB), retrieval-augmented generation, mechanistic interpretability
+- **Scientific HPC** — high-throughput physics simulations, reproducible research pipelines, AWS-benchmarked compute workflows
+
+---
+
+## 🚀 Projects
+
+### ⚡ [Northstar — Low-Latency Gravitational-Wave Localization](https://github.com/tjamcclain2/Northstar-Python-)
+`Python` `Numba` `NumPy` `AWS EC2/S3` `Random Forest` `scikit-learn` `cProfile` `flamegraphs`
+
+> **46.7× inference speedup** on a physics localization pipeline — the kind of optimization that matters at scale.
+
+- Inherited an O(n³) algorithm; profiled with cProfile + flamegraphs, then restructured via **vectorization, JIT compilation (Numba), and antenna-pattern caching** — reducing runtime from **43s → 0.92s per 100 events**
+- Benchmarked the pipeline on **AWS EC2 (t3.medium) vs. local hardware** across 10k+ simulated events; streamed outputs to **S3** to support large-scale ML training runs
+- Built a **120k-injection labeled dataset** and trained a Random Forest model to learn the optimal sky-localization exponent, minimizing RMS residuals between predicted and true sky positions
+- Engineered a **real-time lookup table** for model inference and designed a reproducible profiling toolkit (flamegraphs, SnakeViz) for non-technical handoff
+- *Manuscript in preparation · Presented at APS Global Physics Summit 2026, Denver*
+
+---
 
 ### 🏥 [Clinical RAG Pipeline — Letters of Medical Necessity](https://github.com/ajeem2026/AI_Research/tree/main/lomn-rag)
-`Python` `AWS` `LangChain` `LLaMA` `RAG`
-- Built a retrieval-augmented generation system integrating vector search with LLaMA-based clinical reasoning to produce evidence-grounded medical documentation
-- Implemented structured citation tracing and decision-path extraction for transparent, auditable model outputs
+`Python` `LLaMA-3` `LangChain` `FAISS` `ChromaDB` `RAG` `Mechanistic Interpretability`
+
+> End-to-end **LLM inference pipeline** with auditable, citation-traced outputs — built for high-stakes clinical documentation.
+
+- Engineered a **RAG system** (local LLaMA-3 + vector search) that queries clinical guidelines and prior letters before generating insurance documentation — exposing retrieved sources and how they shaped each section
+- Implemented **mechanistic interpretability modules**: citation tracing, contrastive "what-if" prompts, and failure-mode probes to audit model reasoning
+- Modeled stakeholder personas to evaluate how transparency tooling enables social recourse in denied insurance cases
+- *Research advised by Dr. Upol Ehsan (Northeastern University) — extending his Social Transparency framework to clinical AI*
 
 ---
 
-## 💼 Experience
+### 🌡️ [Ground Heat Exchanger — Finite Element Modeling](https://github.com/ajeem2026)
+`Python` `COMSOL Multiphysics` `FEA` `NumPy` `SciPy` `Data Pipelines`
 
-**Head Career Fellow — Peer Career Advisor** · W&L Career & Professional Development *(Aug 2023 – Present)*
-- Holds the all-time record for most 1-on-1 appointments in office history — **147 in 2024–25**, **209+ in 2025–26**
-- Coaches students on resume strategy and interview preparation across tech, consulting, and finance
-
-**IT Assistant** · W&L Information Technology Services *(May 2023 – Present)*
-- First point of contact for 300+ students and faculty per semester; applies NIST-aligned security practices across all workflows
-
-**Teaching Assistant** — CS & Physics · W&L Science Center *(Jan 2025 – Present)*
-
-**President** — W&L Computer Science Club *(Jan 2024 – Jan 2026)*
-- Led sessions on AI, quantum computing, network security, and system architecture for 30+ students
+- Collected field data from a 10-meter hand-augered borehole; built a **transient FEM heat transfer model** in COMSOL calibrated against experimental measurements
+- Developed a data pipeline to analyze subsurface temperature evolution and evaluate GHX sizing efficiency under varying soil/climate conditions
+- *Co-authored IEEE GEC 2024 · Presented at AGU Annual Meeting 2023 (San Francisco) and invited talk at Shenandoah Undergraduate Math & Stats Conference*
 
 ---
 
-## ⚙️ Skills & Tools
+### 🧮 [Quantum Annealing for TSP](https://github.com/ajeem2026/TSP-DWave)
+`Python` `D-Wave Ocean SDK` `QUBO` `Quantum Optimization`
 
-### 💻 Programming
-`Python` `C` `C++` `JavaScript` `TypeScript` `Bash` `HTML/CSS`
+- Formulated the Traveling Salesman Problem as a **QUBO instance** and mapped it onto the D-Wave quantum annealer
+- Investigated quantum vs. classical optimization tradeoffs for NP-hard combinatorial problems
 
-### 📦 Frameworks & Libraries
-`NumPy` `PyTorch` `SciPy` `Numba` `LangChain` `Matplotlib` `OpenGL/GLSL`
+---
+
+### 🐧 [Linux From Scratch](https://github.com/ajeem2026)
+`Bash` `GCC` `Make` `Systemd` `Linux Systems`
+
+- Built a fully functional Linux distribution from source — compiled core system components, configured Systemd for service management, and constructed a minimal package-less OS architecture
+
+---
+
+## ⚙️ Technical Skills
+
+### 🔥 Inference & Performance Engineering
+`Numba (JIT)` `Vectorization` `cProfile` `Flamegraphs` `SnakeViz` `Pipeline Benchmarking` `AWS EC2/S3`
+
+### 📦 ML & AI Systems
+`PyTorch` `scikit-learn` `Random Forests` `LLaMA-3` `RAG Pipelines` `FAISS` `ChromaDB` `LangChain` `Mechanistic Interpretability`
+
+### 🗄️ Data Engineering
+`Large-scale Simulation Pipelines` `Labeled Dataset Construction` `S3 Data Streaming` `NumPy` `SciPy` `Reproducibility Workflows`
 
 ### ☁️ Cloud & Infrastructure
-`AWS EC2` `S3` `CloudFront` `WAF` `OpenSearch` `Bedrock`
+`AWS EC2` `S3` `Bedrock` `OpenSearch` `CloudFront` `WAF` · **AWS Certified Cloud Practitioner (CLF-C02)**
 
-### 🤖 ML & AI
-`RAG` `LLaMA` `Random Forests` `Data Pipelines` `Mechanistic Interpretability`
+### 💻 Languages
+`Python` `C/C++` `Bash` `Assembly` `Java` `LaTeX`
 
-### 🔧 Software Engineering
-`Performance Optimization` `Profiling (cProfile, flamegraphs)` `Vectorization` `Reproducibility Workflows` `Large Codebase Debugging`
+### 🔬 Scientific & Systems
+`Linux Systems` `D-Wave Ocean SDK` `Qiskit` `Cirq` `COMSOL Multiphysics`
 
 ---
 
-## 🏆 Certifications
-![AWS Certified Cloud Practitioner Badge](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+## 📄 Publications & Presentations
 
-**AWS Certified Cloud Practitioner (CLF-C02)** — July 2025
-Core AWS services · Security best practices · Cost optimization
+- 📝 **A. F. Jeem & T. McClain** — *Low-Latency Gravitational-Wave Sky Localization: Optimization and ML Extensions of the NorthStar Pipeline* — Manuscript in preparation, W&L 2026
+- 📝 **K. Gamage et al. (incl. A. Jeem)** — *A Cost-Effective 3D Finite Element Model for Predicting Transient Heat Transfer in U-tube Ground Heat Exchangers* — **IEEE GEC 2024**, Batman, Türkiye
+- 🎤 **APS Global Physics Summit 2026** — Poster, Denver, CO
+- 🎤 **AGU Annual Meeting 2023** — Poster, San Francisco, CA
+- 🎤 **Shenandoah Undergraduate Math & Stats Conference 2023** — Invited Talk
+
+---
+
+## 🏅 Honors & Awards
+
+| Award | Year |
+|---|---|
+| H. Thomas Williams Jr. Undergraduate Research Award ($4,000) | 2026 |
+| Omicron Delta Kappa — National Leadership Honor Society | 2025 |
+| Sigma Pi Sigma — National Physics Honor Society | 2024 |
+| W&L International Scholar (Full-Ride, $95,225/yr) | 2022 |
+| Queen's Commonwealth Essay Competition — Gold Award (Top 0.1% of 13,000+) | 2020 |
+| Valedictorian, Sunway International College, Malaysia | 2020 |
+| George Mason Travel Grants — Italy/Switzerland (CERN & VIRGO), Barbados, Zimbabwe | 2024–2026 |
 
 ---
 
 ## 📈 GitHub Stats
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajeem2026&show_icons=true&locale=en&layout=compact" alt="ajeem2026" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajeem2026&show_icons=true&locale=en&layout=compact&theme=dark" alt="ajeem2026" />
 </p>
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajeem2026&show_icons=true&locale=en" alt="ajeem2026" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajeem2026&show_icons=true&locale=en&theme=dark" alt="ajeem2026" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajeem2026&" alt="ajeem2026" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajeem2026&theme=dark" alt="ajeem2026" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/profjeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="profjeem" height="30" width="40" /></a>
-<a href="https://instagram.com/hey.abid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abid.jeem__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abidfarhanjeem5207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abidfarhanjeem5207" height="30" width="40" /></a>
+<p align="center">
+  <i>Open to new grad SWE and ML Engineer roles for Summer/Fall 2026. Let's build something fast.</i><br><br>
+  <a href="https://linkedin.com/in/profjeem">LinkedIn</a> · <a href="https://abidjeem.com">Portfolio</a> · <a href="mailto:ajeem@mail.wlu.edu">Email</a>
 </p>
-
----
-
-## ✨ Final Thought
-**Thanks for checking out my profile!**
-Feel free to connect on [LinkedIn](https://linkedin.com/in/profjeem), visit [abidjeem.com](https://abidjeem.com), or email me at [ajeem@mail.wlu.edu](mailto:ajeem@mail.wlu.edu). Let's build something that pushes the boundaries of science and computing together!
