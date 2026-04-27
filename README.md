@@ -1,76 +1,52 @@
-# Research Software Engineer 
-![MasterHead](https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/07/Qubits_2880x1220_Lede_HPA.gif)
+# Abid Jeem
+**Physics & Computer Science @ Washington and Lee University | Research Software Engineer | Specialized in HPC, CUDA & AI Interpretability | AWS Certified**
 
-<h1 align="center">Hi there 👋, I'm Abid! 🇧🇩</h1>
-<h3 align="center">Physics & Computer Science Double Major at Washington & Lee University
+---
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
+## 📝 About
+[cite_start]I am a Physics and Computer Science double major at Washington and Lee University[cite: 7], driven by the challenge of optimizing how we understand the universe through code. My work sits at the intersection of **High-Performance Computing (HPC)**, **Gravitational-Wave Astrophysics**, and **AI Transparency**.
 
- ## 💬 Ask Me About  
-  - Gravitational-wave astrophysics, source localization algorithms, and empirical detector modeling.  
-  - Quantum Computing (Qiskit, D-Wave), HPC workflows, and scientific computing.  
-  - AI Transparency — RAG systems, mechanistic interpretability, and HCI-forward explanation design.
- 
+**Key Highlights:**
+* [cite_start]**Computational Physics:** Optimized a gravitational-wave localization algorithm from $O(n^3)$ to achieve a **46.7x speedup** (43s to 0.92s) using Numba and vectorization[cite: 13, 14].
+* **Research Residency:** Conducted on-site research at the **VIRGO Interferometer (Italy)** and **CERN (Switzerland)**, focusing on real-time signal processing and detector modeling.
+* [cite_start]**AI & Interpretability:** Developed Clinical RAG pipelines and mechanistic interpretability tools using **AWS Bedrock** and **LLaMA** to ensure AI outputs are transparent and auditable[cite: 15, 21].
+* [cite_start]**Leadership:** As **Head Career Fellow** and **CS Club President**, I bridge the gap between technical complexity and professional strategy, leading over 350+ peer advising sessions[cite: 27, 45, 48].
+
+---
+
+## 🛠️ Experience
+
+### **Research Resident | VIRGO & CERN**
+*Nov 2025 – Dec 2025*
+* Conducted on-site research at the VIRGO interferometer and CERN to study vacuum systems and signal localization.
+* Integrated high-throughput computational workflows into experimental physics environments.
+
+### **Honors Thesis Researcher | Washington and Lee University**
+*Aug 2025 – Present*
+* [cite_start]Redesigned the "Northstar" localization algorithm, reducing processing time from 43s to 0.92s per 100 events[cite: 14].
+* Leveraged **CUDA-optimized C++** and **Python (NumPy/Numba)** to accelerate gravitational-wave source localization for presentation at the APS Global Physics Summit 2026.
+
+### **Head Career Fellow**
+[cite_start]*Aug 2023 – Present* [cite: 26]
+* [cite_start]Set the all-time office record with **350+ one-on-one appointments**, coaching students on technical resume strategy and interview preparation[cite: 27, 28].
+
+---
+
+## 🎓 Education
+[cite_start]**Washington and Lee University (W&L)** [cite: 7]
+[cite_start]*Bachelor's Degree in Physics, Minor in Computer Science* [cite: 7]
+* [cite_start]**GPA:** 3.9/4.0 [cite: 6]
+* [cite_start]**Honors:** Omicron Delta Kappa, Sigma Pi Sigma, IEEE Published Author[cite: 8].
+
+---
+
 ## 🏆 Certifications
-
-![AWS Certified Cloud Practitioner Badge](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
-
-- **AWS Certified Cloud Practitioner (CCP)**
-
-- 📫 **Reach Me**: [ajeem@mail.wlu.edu](mailto:ajeem@mail.wlu.edu)  
+* [cite_start]**AWS Certified Cloud Practitioner (CLF-C02)** – July 2025 [cite: 35, 37]
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/profjeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="profjeem" height="30" width="40" /></a>
-
-<a href="https://instagram.com/hey.abid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abid.jeem__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abidfarhanjeem5207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abidfarhanjeem5207" height="30" width="40" /></a>
-</p>
-
----
-
-## ⚙️ Skills & Tools
-
-### 🌀 Gravitational Waves & Computational Physics
-- **Quantum / Physics Tooling:** Qiskit, D-Wave, Mathematica  
-- **Computational Methods:** FEM modeling (COMSOL), numerical simulation, empirical signal modeling  
-- **Data & ML Workflows:** PyTorch, scikit-learn, scientific computing, HPC environments  
-
-### 🧠 AI, Transparency & Interpretability
-- **Mechanistic Interpretability:** attribution methods, concept activation, counterfactual probing  
-- **XAI & HCI:** social transparency, explanation design, user-centered AI workflows  
-- **RAG Systems:** AWS Bedrock, OpenSearch, Claude models, document retrieval & embedding pipelines  
-
-### 🔐 Cybersecurity & Systems
-- **Security Tools:** Nmap, Snort, Burp Suite, Wireshark, Fortinet Client VPN  
-- **Frameworks:** MITRE ATT&CK, NIST CSF, OWASP Top 10  
-
-### 💻 Programming & Development
-- **Languages:** Python, Java, C, JavaScript, Bash  
-- **Frameworks / Libraries:** React, React Native, Node.js, Express  
-- **Tooling:** Git/GitHub, automation scripts, container workflows, API integrations  
-
----
-
-## 📈 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajeem2026&show_icons=true&locale=en&layout=compact" alt="ajeem2026" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajeem2026&show_icons=true&locale=en" alt="ajeem2026" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajeem2026&" alt="ajeem2026" />
-</p>
-
----
-
-## ✨ Final Thought
-**Thanks for checking out my profile!**  
-Feel free to connect on [LinkedIn](https://linkedin.com/in/profjeem) or email me at [ajeem@mail.wlu.edu](mailto:ajeem@mail.wlu.edu). Let’s build something that pushes the boundaries of science and security together!  
-
----
+## 💻 Skills
+* [cite_start]**Programming:** Python, C, C++, JavaScript, Bash[cite: 51].
+* [cite_start]**HPC & Tooling:** CUDA, Numba, NumPy, PyTorch, SciPy, Profiling (cProfile, Flamegraphs)[cite: 52, 54].
+* [cite_start]**Cloud & AI:** AWS (Bedrock, EC2, S3), RAG Pipelines, LangChain, LLaMA[cite: 53, 54].
+* [cite_start]**Physics:** Quantum Mechanics, FEM Modeling, Statistical Physics, Signal Modeling[cite: 7, 52].
