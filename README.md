@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/profjeem"><img src="https://img.shields.io/badge/LinkedIn-profjeem-0A66C2?style=flat&logo=linkedin" /></a>
-  <a href="https://abidjeem.com"><img src="https://img.shields.io/badge/Portfolio-abidjeem.com-000000?style=flat&logo=vercel" /></a>
+  <!-- <a href="https://abidjeem.com"><img src="https://img.shields.io/badge/Portfolio-abidjeem.com-000000?style=flat&logo=vercel" /></a> -->
   <a href="mailto:abid.farhan.jeem@gmail.com"><img src="https://img.shields.io/badge/Email-abid.farhan.jeem@gmail.com-EA4335?style=flat&logo=gmail" /></a>
   <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat&logo=amazonaws" />
 </p>
