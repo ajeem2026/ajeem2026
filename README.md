@@ -1,7 +1,7 @@
 ![MasterHead](https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/07/Qubits_2880x1220_Lede_HPA.gif)
 <h1 align="center">Hi, I'm Abid 👋</h1>
 <h3 align="center">ML Inference · Data Engineering · AI Systems</h3>
-<h4 align="center">Deployment Strategist Intern @ Copado · Building ML agents on BigQuery + Superset</h4>
+<h4 align="center"> AI Deployment Strategist Intern @ Copado · Building ML agents on BigQuery + Superset</h4>
 <p align="center">
   Physics & CS @ Washington & Lee University · GPA 3.9 · AWS Certified · IEEE Published
 </p>
@@ -11,7 +11,6 @@
   <a href="mailto:abid.farhan.jeem@gmail.com"><img src="https://img.shields.io/badge/Email-abid.farhan.jeem@gmail.com-EA4335?style=flat&logo=gmail" /></a>
   <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat&logo=amazonaws" />
 </p>
----
  
 ## 🧠 What I Build
  
