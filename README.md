@@ -46,10 +46,8 @@ I specialize in making ML systems **fast, scalable, and production-ready** — f
 - Added on-demand LLM-generated summary nodes (key insights + action items) so teams can audit AI agent outputs at scale without opening every message
 ---
  
-### 🧮 [Deep Learning Suite: Perceptron → Backprop MLP → CNN](./AI/)
+### 🧮 [Deep Learning Suite: Perceptron → Backprop MLP → CNN]([./AI/](https://github.com/ajeem2026/ML-foundations))
 `Python` `NumPy` `PyTorch` `Scikit-Learn`
- 
-> Neural nets from scratch — no framework shortcuts. Extra credit on 3 of 5 assignments.
  
 - Implemented backpropagation from scratch in NumPy: sigmoid activations, batch delta rule, 196→250→10 digit recognizer; visualized the 3D error landscape across weight-space dimensions to analyze convergence behavior
 - Built a ConvNet in PyTorch (Conv2d×2, MaxPool2d, Dropout) trained on MNIST over 500 epochs with SGD + CrossEntropyLoss; evaluated with a full 10×10 confusion matrix and per-class precision/recall breakdown
