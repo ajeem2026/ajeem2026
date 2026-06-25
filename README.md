@@ -46,7 +46,7 @@ I specialize in making ML systems **fast, scalable, and production-ready** — f
 - Added on-demand LLM-generated summary nodes (key insights + action items) so teams can audit AI agent outputs at scale without opening every message
 ---
  
-### 🧮 [Deep Learning Suite: Perceptron → Backprop MLP → CNN]([./AI/](https://github.com/ajeem2026/ML-foundations))
+### 🧮 [Deep Learning Suite: Perceptron → Backprop MLP → CNN](https://github.com/ajeem2026/ML-foundations)
 `Python` `NumPy` `PyTorch` `Scikit-Learn`
  
 - Implemented backpropagation from scratch in NumPy: sigmoid activations, batch delta rule, 196→250→10 digit recognizer; visualized the 3D error landscape across weight-space dimensions to analyze convergence behavior
