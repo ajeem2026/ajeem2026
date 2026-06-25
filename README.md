@@ -66,25 +66,12 @@ I specialize in making ML systems **fast, scalable, and production-ready** — f
 - *Research advised by Dr. Upol Ehsan (Northeastern University) — extending his Social Transparency framework to clinical AI*
 ---
  
-### 🌡️ [Ground Heat Exchanger — Finite Element Modeling](https://github.com/ajeem2026)
-`Python` `COMSOL Multiphysics` `FEA` `NumPy` `SciPy` `Data Pipelines`
- 
-- Collected field data from a 10-meter hand-augered borehole; built a **transient FEM heat transfer model** in COMSOL calibrated against experimental measurements
-- Developed a data pipeline to analyze subsurface temperature evolution and evaluate GHX sizing efficiency under varying soil/climate conditions
-- *Co-authored IEEE GEC 2024 · Presented at AGU Annual Meeting 2023 (San Francisco) and invited talk at Shenandoah Undergraduate Math & Stats Conference*
----
- 
 ### 🧪 [Quantum Annealing for TSP](https://github.com/ajeem2026/TSP-DWave)
 `Python` `D-Wave Ocean SDK` `QUBO` `Quantum Optimization`
  
 - Formulated the Traveling Salesman Problem as a **QUBO instance** and mapped it onto the D-Wave quantum annealer
 - Investigated quantum vs. classical optimization tradeoffs for NP-hard combinatorial problems
 ---
- 
-### 🐧 [Linux From Scratch](https://github.com/ajeem2026)
-`Bash` `GCC` `Make` `Systemd` `Linux Systems`
- 
-- Built a fully functional Linux distribution from source — compiled core system components, configured Systemd for service management, and constructed a minimal package-less OS architecture
 ---
  
 ## ⚙️ Technical Skills
